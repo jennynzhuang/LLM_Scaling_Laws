@@ -1,4 +1,4 @@
-### README for *Scaling Laws for Neural Language Models* Presentation
+## README for *Scaling Laws for Neural Language Models* Presentation
 
 ## Overview
 
@@ -14,6 +14,11 @@ This repository contains the presentation slides and LaTeX annotations for a pro
 - **Scaling Laws**: How neural language model performance scales with increased compute, model size, and data.
 - **Key Insights**: The implications of scaling laws for model efficiency and cost-effectiveness.
 - **Practical Applications**: How these findings influence the design and deployment of modern language models.
+
+## Research Paper
+
+You can access the original research paper here:  
+[**Scaling Laws for Neural Language Models**](https://arxiv.org/abs/2001.08361)
 
 ## Watch the Presentation
 
